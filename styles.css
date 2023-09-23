@@ -114,3 +114,8 @@ h1{
   align-items: center;
   color: #f9faf8;
 }
+
+figcaption{
+  font-size: 12px;
+  color: rgb(190, 189, 189);
+}
