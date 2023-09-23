@@ -30,6 +30,8 @@ body{
 #image1{
   height: 300px;
   width: auto;
+  border: 3px solid #5e9013;
+  border-radius: 12px;
 }
 button{
   background-color: #3882f6;
@@ -41,4 +43,30 @@ h1{
   font-size: 48px;
   color: #f9faf8;
   font-weight: bolder;
+}
+
+
+#c-head{
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: bolder;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rounded-images{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 0 300px;
+}
+.c-img{
+  border: 3px solid #94eb11;
+  border-radius: 12px;
+  width: 300px;
+  height: auto;
 }
