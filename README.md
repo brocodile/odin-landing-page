@@ -8,5 +8,5 @@ Some good places to find free-to-use images on the web include [Pexels](https://
 
 ## Objective:
 - Create a webpage to resemble the given design:
-![[design.png]]
+[[./design.png]]
 
