@@ -119,3 +119,8 @@ figcaption{
   font-size: 12px;
   color: rgb(190, 189, 189);
 }
+
+.header-container{
+  display: flex;
+  justify-content: center;
+}
