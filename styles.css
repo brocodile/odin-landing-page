@@ -88,3 +88,16 @@ h1{
   align-self: flex-end;
   font-size: 24px;
 }
+
+
+.top-footer{
+  background-color: #3882f6;
+  color: #e5e7eb;
+  display: flex;
+  margin: 100px 300px;
+  justify-content: space-around;
+  align-items: center;
+}
+#footer-button{
+  border: 1px solid #e5e7eb;
+}
