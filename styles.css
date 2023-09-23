@@ -22,3 +22,23 @@ body{
   display: flex;
   gap: 20px;
 }
+
+.content-header{
+  display: flex;
+  padding-top: 100px;
+}
+#image1{
+  height: 300px;
+  width: auto;
+}
+button{
+  background-color: #3882f6;
+  padding: 8px 50px;
+  border-radius: 12px;
+  color: white;
+}
+h1{
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: bolder;
+}
